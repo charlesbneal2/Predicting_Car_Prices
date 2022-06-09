@@ -5,7 +5,9 @@
 
 ## Code and Resources Used
 **Python Version:** 3.7
+
 **Packages:** pandas, numpy, sklearn, matplotlib
+
 **Dataset Documentation:** https://archive.ics.uci.edu/ml/datasets/automobile
 
 ## Data Overview
